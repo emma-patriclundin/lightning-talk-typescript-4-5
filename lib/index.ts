@@ -1,2 +1,2 @@
-export const importMeValue = "hello";
-export type importMeType = typeof importMeValue;
+export const value = "hello";
+export type ValueType = typeof value;
